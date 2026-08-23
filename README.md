@@ -38,6 +38,5 @@ return 2 is the others error you can or will fill in
 device then just use WSL(safer but slow and room of errors) or dual-boot(more rooms for errors but dual-booting
 is fast in some instances and for long-term use or heavy-use, yeah use it)
 12. On the Github repo, go to master, not main so that you found the right code to download, compile or change
-13. If you don't want a way of email, you can call me by +84 396 656 656 (Yes, I'm Vietnamese) , but email is more preferred
-14. Don't delete the main.c (aka. main code), even though I have git backup, but still don't dare to delete it
-15. Done!
+13. Don't delete the main.c (aka. main code), even though I have git backup, but still don't dare to delete it
+14. Done!
